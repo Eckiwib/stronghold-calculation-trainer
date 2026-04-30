@@ -1,3 +1,5 @@
 {
-    "range":1000
+    "range":1000,
+    "threshold":1.15,
+    "step_size":2
 }
