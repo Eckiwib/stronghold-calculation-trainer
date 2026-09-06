@@ -1,5 +1,7 @@
 {
     "eye_spacing":20,
-    "angle_difference_start":0.38,
-    "angle_difference_end":3
+    "angle_difference_start":38,
+    "angle_difference_end":300,
+    "coordinate_start":-9999,
+    "coordinate_end":9999
 }
